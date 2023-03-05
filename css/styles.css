@@ -78,7 +78,7 @@ header {
 
 header ul {
     display: inline-block;
-    background: #3498db;
+    background: #4d7ea0;
     text-align: center;
     padding: 10px;
     margin: 0;
@@ -96,14 +96,14 @@ header a {
 }
 
 header a:hover {
-    color: #3498db;
+    color: #4d7ea0;
     text-decoration: none;
     background: #eee;
     border-radius: 4px
 }
 
 header a:focus {
-    color: #3498db;
+    color: #4d7ea0;
     text-decoration: none;
     background: #eee;
     border-radius: 4px
@@ -133,7 +133,7 @@ header.sticky {
     z-index: 20;
     padding: 0 7px;
     border-radius: 4px;
-    background: #3498db
+    background: #4d7ea0
 }
 
 #mobile-menu-close {
@@ -145,7 +145,7 @@ header.sticky {
     padding-right: 15px;
     padding-top: 10px;
     cursor: pointer;
-    color: #3498db
+    color: #4d7ea0
 }
 
 #mobile-menu-close span {
@@ -211,7 +211,7 @@ footer {
 }
 
 .social a:hover {
-    color: #3498db
+    color: #4d7ea0
 }
 
 .btn-rounded-white {
@@ -224,12 +224,12 @@ footer {
 }
 
 .btn-rounded-white:hover {
-    color: #3498db;
+    color: #4d7ea0;
     background: #fff;
     text-decoration: none
 }
 .btn-rounded-white:focus {
-    color: #3498db;
+    color: #4d7ea0;
     background: #fff;
     text-decoration: none
 }
@@ -259,7 +259,7 @@ footer {
     left: 0;
     right: 0;
     margin: 0 auto;
-    background: #3498db
+    background: #4d7ea0
 }
 
 .background-alt {
@@ -400,7 +400,7 @@ footer {
     right: auto;
     height: 100%;
     width: 3px;
-    background: #3498db;
+    background: #4d7ea0;
     z-index: 0
 }
 
@@ -409,8 +409,8 @@ footer {
     content: '';
     width: 3px;
     height: 40px;
-    background: #3498db;
-    background: linear-gradient(to bottom, #3498db, rgba(52, 152, 219, 0));
+    background: #4d7ea0;
+    background: linear-gradient(to bottom, #4d7ea0, rgba(52, 152, 219, 0));
     top: 100%;
     left: 303px
 }
@@ -457,7 +457,7 @@ footer {
     color: #fff;
     width: 50px;
     height: 50px;
-    background: #3498db;
+    background: #4d7ea0;
     border-radius: 50%;
     float: left;
     z-index: 99;
@@ -617,7 +617,7 @@ footer {
 
 #contact {
     padding: 60px 15px;
-    background: #3498db;
+    background: #4d7ea0;
     text-align: center
 }
 
@@ -640,7 +640,7 @@ footer {
     border-radius: 4px;
     border: none;
     margin-bottom: 10px;
-    background: #1d6fa5;
+    background: #39607b;
     color: #fff;
     transition: .5s ease all
 }
@@ -670,7 +670,7 @@ footer {
 #contact-form input:focus,
 #contact-form textarea:focus {
     outline: none;
-    background: #16527a
+    background: #39607b
 }
 
 #contact-form textarea {
@@ -685,7 +685,7 @@ footer {
     border-radius: 4px;
     padding: 5px 10px;
     border: none;
-    color: #3498db;
+    color: #4d7ea0;
     font-weight: 700;
     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
     transition: .5s ease all
